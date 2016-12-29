@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AboutGame.cs" />
     <Compile Include="DifficutlyLevel.cs" />
     <Compile Include="LoadControlButtonInfo.cs" />
     <Compile Include="LoadLogo.cs" />
